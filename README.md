@@ -38,4 +38,7 @@
 
 ![Rander](https://github-readme-stats.vercel.app/api?username=randerthe&show_icons=true)
 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randerthe&layout=compact)](https://github.com/randerthe/github-readme-stats)
+  
 </article>
