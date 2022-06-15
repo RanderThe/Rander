@@ -2,7 +2,7 @@
 <article class="markdown-body entry-content container-lg" itemprop="text">
 <div>
 
-<a target="_blank" href="https://www.linkedin.com/in/rander-themotio-47730058/">
+<a target="_blank" href="https://www.linkedin.com/in/rander-leal-47730058/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=351911979198">
