@@ -2,21 +2,10 @@
 <article class="markdown-body entry-content container-lg" itemprop="text">
 <div>
 
-<a target="_blank" href="https://www.linkedin.com/in/rander-leal-47730058/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=351911979198">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="https://www.instagram.com/randerthe/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/randerleal/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a target="_blank" href="mailto:randerlealt@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+ [![Whatsapp Badge](https://img.shields.io/badge/-Rander-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=351911979198)](https://api.whatsapp.com/send?phone=351911979198) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rander%20-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rander-leal-47730058/)](https://www.linkedin.com/in/rander-leal-47730058/) 
+[![Gmail Badge](https://img.shields.io/badge/-randerlealt@gmail.com-d93025?style=flat-square&logo=Gmail&logoColor=white&link=mailto:randerlealt@gmail.com)](mailto:randerlealt@gmail.com) 
+  
 <br> 
 </div>
 
@@ -35,10 +24,5 @@
 
 <br> 
 <br> 
-
-![Rander](https://github-readme-stats.vercel.app/api?username=randerthe&show_icons=true)
-
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randerthe&layout=compact)](https://github-readme-stats.vercel.app/api?username=randerthe&show_icons=true)
   
 </article>
