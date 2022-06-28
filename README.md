@@ -11,7 +11,7 @@
 
 <br> 
    <div class="snippet-clipboard-content position-relative">
-      <pre><code>Fullstack developer at TOTVS.
+      <pre><code>Fullstack developer.
 </code></pre>
   </div>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png"></code>
